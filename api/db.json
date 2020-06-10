@@ -1,0 +1,59 @@
+{
+  "streams": [
+    {
+      "title": "Test",
+      "description": "Description",
+      "id": 1
+    },
+    {
+      "title": "Test",
+      "description": "This is a fine stream",
+      "id": 2
+    },
+    {
+      "title": "New Test",
+      "description": "Third",
+      "id": 3
+    },
+    {
+      "title": "Test 4",
+      "description": "Test",
+      "id": 4
+    },
+    {
+      "title": "Test 5",
+      "description": "Test 5 Description",
+      "userId": "103192354209236948935",
+      "id": 5
+    },
+    {
+      "title": "This is 1",
+      "description": "And 2",
+      "userId": "103192354209236948935",
+      "id": 6
+    },
+    {
+      "title": "TEst",
+      "description": "TETSTSTESER",
+      "userId": "103192354209236948935",
+      "id": 7
+    },
+    {
+      "title": "Another",
+      "description": "Test",
+      "userId": "103192354209236948935",
+      "id": 8
+    },
+    {
+      "title": "Tewst232",
+      "description": "Again232",
+      "id": 9
+    },
+    {
+      "title": "Test 8",
+      "description": "Desc",
+      "userId": "103192354209236948935",
+      "id": 10
+    }
+  ]
+}
